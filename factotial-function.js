@@ -21,9 +21,7 @@ var secondFactorial = getFactorial(9);
 console.log('factorial of 9 is', secondFactorial);
 
 
-
-
-
+//own try
 
 function isFactorial(num) {
     var factorial = 1;
