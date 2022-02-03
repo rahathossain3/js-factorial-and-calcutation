@@ -28,8 +28,9 @@ function leapYear(year) {
     else {
         return false;
     }
+
 }
 
-var enterYear = 2100;
+var enterYear = 1900;
 var isLeapYear = leapYear(enterYear);
 console.log('This Year Is Leap Year:', isLeapYear);
