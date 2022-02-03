@@ -56,4 +56,3 @@ price = 31;
 const myName = 'lal e lal mr. Helal';           // মান পরিবর্তিত হতে চায় না বা error দেয়।
 console.log(myName)
 // myName = 22;             //not correct Line for using const variable
-
