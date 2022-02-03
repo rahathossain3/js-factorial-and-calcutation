@@ -20,7 +20,6 @@ var feet = nanaInches / 12;          //coling funticn
 console.log(feet);
 
 
-
 // mile to Km
 function mileToKilomiter(miles) {
     var km = miles * 1.60934;
