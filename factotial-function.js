@@ -32,3 +32,14 @@ function isFactorial(num) {
 }
 var factorialIs = isFactorial(6);
 console.log('6 factorial is ', factorialIs);
+
+
+function newFactorial(num1) {
+    let fact = 1;
+    for (let i = 1; i <= num1; i++) {
+        fact = fact * i;
+    }
+    return fact;
+}
+let newFacttorialIs = newFactorial(7)
+console.log('factorial 7 is :', newFacttorialIs);
