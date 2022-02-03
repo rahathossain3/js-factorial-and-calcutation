@@ -19,7 +19,7 @@ console.log('Is your Year Leap Year', isYourYearLeapYear);
 
 //leap year function   .. It is  full correct
 
-// this is main leap year funtino
+// this is main leap year function
 
 function leapYear(year) {
     if ((year % 4 == 0) && (year % 100 != 0) || (year % 400 == 0)) {
